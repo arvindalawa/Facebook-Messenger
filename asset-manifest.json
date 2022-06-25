@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Facebook-Messenger/static/css/main.18037677.css",
+    "main.js": "/Facebook-Messenger/static/js/main.c0d89ca3.js",
+    "index.html": "/Facebook-Messenger/index.html",
+    "main.18037677.css.map": "/Facebook-Messenger/static/css/main.18037677.css.map",
+    "main.c0d89ca3.js.map": "/Facebook-Messenger/static/js/main.c0d89ca3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.18037677.css",
+    "static/js/main.c0d89ca3.js"
+  ]
+}
